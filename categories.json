@@ -1,0 +1,5 @@
+{
+  "cards": ["item1", "item3", "item7"],
+  "tutorials": ["item2", "item5", "item6", "item9"],
+  "pages": ["item4", "item8", "item10"]
+}

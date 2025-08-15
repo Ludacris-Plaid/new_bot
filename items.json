@@ -1,0 +1,12 @@
+{
+  "item1": { "name": "Dark Secret Card", "price_btc": 0.0001, "file_path": "items/secret.pdf" },
+  "item2": { "name": "Forbidden Tutorial", "price_btc": 0.0002, "file_path": "items/archive.zip" },
+  "item3": { "name": "Blackout Blackjack Guide", "price_btc": 0.0003, "file_path": "items/blackjack.pdf" },
+  "item4": { "name": "Cryptic Code Pages", "price_btc": 0.00015, "file_path": "items/codepages.pdf" },
+  "item5": { "name": "Cybersecurity Masterclass", "price_btc": 0.0005, "file_path": "items/malware.mp4" },
+  "item6": { "name": "Phantom Code Manual", "price_btc": 0.00025, "file_path": "items/phishing.pdf" },
+  "item7": { "name": "Ghost Scripts Collection", "price_btc": 0.0004, "file_path": "items/ghostscripts.zip" },
+  "item8": { "name": "Shadow Pages Vol.1", "price_btc": 0.00012, "file_path": "items/shadowpages.pdf" },
+  "item9": { "name": "Underground Tips", "price_btc": 0.00035, "file_path": "items/hacktips.pdf" },
+  "item10": { "name": "Market Blueprints", "price_btc": 0.0006, "file_path": "items/blueprints.pdf" }
+}
