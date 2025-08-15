@@ -1,3 +1,4 @@
-python-telegram-bot==20.3
-aiohttp
+python-telegram-bot[webhooks]==21.6
 python-dotenv
+aiohttp
+requests
